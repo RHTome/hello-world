@@ -8,5 +8,3 @@ I mean,you know,I actually have become a member of GitHub for a long time when I
 
 ## what happend newly?
 I began to learn markdown since yesterday,which I have get in touch with slightly in two years ago.It's a little easy,and at the same time,it's very diffcult when you want to learn more.
-
-a new line
